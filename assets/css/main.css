@@ -4625,3 +4625,18 @@ input, select, textarea {
 				}
 
 		}
+
+/* CUSTOM CSS */
+
+	ul.bulleted-icons li {
+		position: relative;
+		cursor: pointer;
+	}
+
+	ul.bulleted-icons li a {
+		position: absolute;
+		inset: 0;
+		text-decoration: none;
+		border-bottom: none;
+		z-index: 30;
+	}
