@@ -4628,6 +4628,12 @@ input, select, textarea {
 
 /* CUSTOM CSS */
 
+	ul.bulleted-icons {
+		vertical-align: middle;
+		text-align: center;
+		margin: 0 auto;
+	}
+
 	ul.bulleted-icons li {
 		position: relative;
 		cursor: pointer;
